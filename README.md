@@ -1,4 +1,6 @@
 Gerador de senhas
+
+
 ATENÇÂO
 
 Se o computador estiver infectado ou um site malicioso executar scripts, eles podem acessar o localStorage do seu domínio e roubar os dados.
